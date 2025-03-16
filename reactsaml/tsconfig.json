@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",         // Ensure output files go to 'dist'
+    "rootDir": "src",         // Keep source files in 'src'
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "jsx": "react-jsx",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}
