@@ -1,5 +1,7 @@
 # Project Overview
 
+NOTE: this application and repository was created with the assistance of ChatGPT.  The "context.sh" builds scripts you can run past ChatGPT 4o and build up a context to ask questions.
+
 This project is a **SAML authentication system** integrating **Keycloak, .NET 8 Web API (`net8saml`), and a React frontend (`reactsaml`)**. It provides Single Sign-On (SSO) using **SAML 2.0** and supports **session management, user authentication, and secure communication** between components.
 
 ## **1. Architectural Overview**
